@@ -1,0 +1,22 @@
+{
+  "name": "qiniu-tools",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qiniu",
+    "upload",
+    "storage",
+    "tools",
+    "deploy",
+    "cloud"
+  ],
+  "author": "CAI YI MING <hi@caiyiming.com> (https://yiming.blog)",
+  "license": "MIT",
+  "devDependencies": {
+    "qiniu": "^7.1.3"
+  }
+}
